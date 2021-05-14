@@ -48,10 +48,10 @@ export const pageQuery = graphql`
           name
           
           telegram
-          twitter
-          github
-          rss
-          vk
+          
+          
+          
+          
         }
       }
     }
