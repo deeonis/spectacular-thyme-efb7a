@@ -25,11 +25,11 @@ module.exports = {
     author: {
       name: 'Denis Kuznetsov',
       email: '',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      telegram: '',
+      twitter: '',
+      github: '',
+      rss: '',
+      vk: '',
     },
   },
   plugins: [
