@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Начни с понедельника',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Принятие решений, привычки, изменение собственных майндсетов, психология, продуктовый менеджмент, предпринимательство, разные инсайты, работающие системы и что-нибудь наверняка еще.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
