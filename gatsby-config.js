@@ -24,7 +24,7 @@ module.exports = {
     ],
     author: {
       name: 'Denis Kuznetsov',
-      email: '#',
+      email: '',
       telegram: '#',
       twitter: '#',
       github: '#',
