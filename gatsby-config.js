@@ -22,16 +22,16 @@ module.exports = {
         path: '/contact/',
       },
     ],
-    /*
+    
     author: {
       name: 'Denis Kuznetsov',
-      email: '',
-      telegram: '',
-      twitter: '',
-      github: '',
-      rss: '',
-      vk: '',
-    },*/
+      email: ' ',
+      telegram: 'onmondays',
+      twitter: ' ',
+      github: ' ',
+      rss: ' ',
+      vk: ' ',
+    },
   },
   plugins: [
     {
