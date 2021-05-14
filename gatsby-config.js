@@ -18,7 +18,7 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'Contact me',
+        label: 'Связаться со мной',
         path: '/contact/',
       },
     ],
