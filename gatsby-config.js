@@ -22,6 +22,7 @@ module.exports = {
         path: '/contact/',
       },
     ],
+    /*
     author: {
       name: 'Denis Kuznetsov',
       email: '',
