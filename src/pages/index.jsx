@@ -45,13 +45,13 @@ export const pageQuery = graphql`
           path
         }
         author {
-          name
           
+          email
           telegram
-          
-          
-          
-          
+          twitter
+          github
+          rss
+          vk
         }
       }
     }
