@@ -31,7 +31,7 @@ module.exports = {
       github: '',
       rss: '',
       vk: '',
-    },
+    },*/
   },
   plugins: [
     {
